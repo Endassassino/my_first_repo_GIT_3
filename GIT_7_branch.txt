@@ -1,0 +1,11 @@
+* 18821bd rozwiązano GIT_7
+* bba3443 GIT_7 konflik2
+* 5cd8844 GIT_7
+* 215f709 zadanie GIT5
+* bc9567b zadanka wykonane
+*   1033542 Merge https://github.com/Endassassino/my_first_repo_GIT_3
+|\  
+| * e6ed01f Add files via upload
+* | 8619561 całość
+|/  
+* d2a1f3e Create Hello-World
