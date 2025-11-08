@@ -1,0 +1,15 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   GIT_1_idea.txt
+	new file:   GIT_2_version.txt
+	new file:   GIT_4_status1.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   GIT_1_idea.txt
+	modified:   GIT_2_version.txt
+
