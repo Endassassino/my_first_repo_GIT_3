@@ -1,0 +1,130 @@
+commit e6ed01fc70039884f343f15cc25ee91ac5d46f2a
+Author: Endassassino <woznickimaciek@gmail.com>
+Date:   Sat Nov 8 15:17:53 2025 +0100
+
+    Add files via upload
+
+diff --git a/GIT_1_idea.txt b/GIT_1_idea.txt
+new file mode 100644
+index 0000000..38e999d
+--- /dev/null
++++ b/GIT_1_idea.txt
+@@ -0,0 +1 @@
++system kontroli wersji można wykorzystać do porządkowania baz danych badań genetycznych nad terapią genową za pomocą różych wektorów wirusowych i wykorzystać do porównania wyników z efektywności leczenia
+diff --git a/GIT_2_version.txt b/GIT_2_version.txt
+new file mode 100644
+index 0000000..3f28906
+--- /dev/null
++++ b/GIT_2_version.txt
+@@ -0,0 +1 @@
++version 2.52.2.windows.1
+diff --git a/GIT_4_restore.txt b/GIT_4_restore.txt
+new file mode 100644
+index 0000000..7df8ca1
+--- /dev/null
++++ b/GIT_4_restore.txt
+@@ -0,0 +1,22 @@
++On branch master
++Your branch is up to date with 'origin/master'.
++
++Changes to be committed:
++  (use "git restore --staged <file>..." to unstage)
++	new file:   GIT_1_idea.txt
++	new file:   GIT_2_version.txt
++	new file:   GIT_4_status1.txt
++	new file:   GIT_4_status2.txt
++	new file:   GIT_4_status3.txt
++
++Changes not staged for commit:
++  (use "git add <file>..." to update what will be committed)
++  (use "git restore <file>..." to discard changes in working directory)
++	modified:   GIT_1_idea.txt
++	modified:   GIT_2_version.txt
++	modified:   GIT_4_status2.txt
++
++Untracked files:
++  (use "git add <file>..." to include in what will be committed)
++	GIT_4_restore.txt
++
+diff --git a/GIT_4_status1.txt b/GIT_4_status1.txt
+new file mode 100644
+index 0000000..bfbb93a
+--- /dev/null
++++ b/GIT_4_status1.txt
+@@ -0,0 +1,15 @@
++On branch master
++Your branch is up to date with 'origin/master'.
++
++Changes to be committed:
++  (use "git restore --staged <file>..." to unstage)
++	new file:   GIT_1_idea.txt
++	new file:   GIT_2_version.txt
++	new file:   GIT_4_status1.txt
++
++Changes not staged for commit:
++  (use "git add <file>..." to update what will be committed)
++  (use "git restore <file>..." to discard changes in working directory)
++	modified:   GIT_1_idea.txt
++	modified:   GIT_2_version.txt
++
+diff --git a/GIT_4_status2.txt b/GIT_4_status2.txt
+new file mode 100644
+index 0000000..5cc044a
+--- /dev/null
++++ b/GIT_4_status2.txt
+@@ -0,0 +1,18 @@
++On branch master
++Your branch is up to date with 'origin/master'.
++
++Changes to be committed:
++  (use "git restore --staged <file>..." to unstage)
++	new file:   GIT_1_idea.txt
++	new file:   GIT_2_version.txt
++	new file:   GIT_4_status1.txt
++	new file:   GIT_4_status2.txt
++
++Changes not staged for commit:
++  (use "git add <file>..." to update what will be committed)
++  (use "git restore <file>..." to discard changes in working directory)
++	modified:   GIT_1_idea.txt
++	modified:   GIT_2_version.txt
++	modified:   GIT_4_status1.txt
++
++Hello world
+diff --git a/GIT_4_status3.txt b/GIT_4_status3.txt
+new file mode 100644
+index 0000000..8f702a1
+--- /dev/null
++++ b/GIT_4_status3.txt
+@@ -0,0 +1,21 @@
++On branch master
++Your branch is up to date with 'origin/master'.
++
++Changes to be committed:
++  (use "git restore --staged <file>..." to unstage)
++	new file:   GIT_1_idea.txt
++	new file:   GIT_2_version.txt
++	new file:   GIT_4_status2.txt
++
++Changes not staged for commit:
++  (use "git add <file>..." to update what will be committed)
++  (use "git restore <file>..." to discard changes in working directory)
++	modified:   GIT_1_idea.txt
++	modified:   GIT_2_version.txt
++	modified:   GIT_4_status2.txt
++
++Untracked files:
++  (use "git add <file>..." to include in what will be committed)
++	GIT_4_status1.txt
++	GIT_4_status3.txt
++
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..0a2acdf
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,4 @@
++System kontroli wersji
++my_first_repo_GIT_3
++Maciej Woźnicki
++pd4988

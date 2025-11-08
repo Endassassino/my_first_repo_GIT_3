@@ -1,0 +1,30 @@
+commit bc9567bf182a7c3a5e3bcbc8ff8bec6b33297250
+Author: Endassassino <woznickimaciek@gmail.com>
+Date:   Sat Nov 8 17:37:51 2025 +0100
+
+    zadanka wykonane
+
+commit 1033542c7e324713f5bef07ba49b0f5105e941b1
+Merge: 8619561 e6ed01f
+Author: Endassassino <woznickimaciek@gmail.com>
+Date:   Sat Nov 8 17:30:10 2025 +0100
+
+    Merge https://github.com/Endassassino/my_first_repo_GIT_3
+
+commit 86195617bf97e7c27076c24acb2a996880ab9948
+Author: Endassassino <woznickimaciek@gmail.com>
+Date:   Sat Nov 8 17:27:03 2025 +0100
+
+    całość
+
+commit e6ed01fc70039884f343f15cc25ee91ac5d46f2a
+Author: Endassassino <woznickimaciek@gmail.com>
+Date:   Sat Nov 8 15:17:53 2025 +0100
+
+    Add files via upload
+
+commit d2a1f3ee18759125367914d9087e3f98f6ad8128
+Author: Endassassino <woznickimaciek@gmail.com>
+Date:   Sat Nov 8 14:01:23 2025 +0100
+
+    Create Hello-World
