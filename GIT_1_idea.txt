@@ -1,0 +1,1 @@
+system kontroli wersji można wykorzystać do porządkowania baz danych badań genetycznych nad terapią genową za pomocą różych wektorów wirusowych i wykorzystać do porównania wyników z efektywności leczenia
