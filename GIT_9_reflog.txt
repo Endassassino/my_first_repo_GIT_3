@@ -1,0 +1,78 @@
+ee18350 HEAD@{0}: commit: GIT9_reset
+f1961f5 HEAD@{1}: reset: moving to HEAD~1
+2d3bddd HEAD@{2}: commit: GIT9
+f1961f5 HEAD@{3}: commit: cherry-pick_done
+15fd34c HEAD@{4}: cherry-pick: cherry-pick
+fc7a732 HEAD@{5}: checkout: moving from test to master
+42a4788 HEAD@{6}: checkout: moving from master to test
+fc7a732 HEAD@{7}: checkout: moving from test to master
+42a4788 HEAD@{8}: commit: cherry-pick
+e44a3be HEAD@{9}: checkout: moving from master to test
+fc7a732 HEAD@{10}: cherry-pick: cherry-pick
+7f0bfa8 HEAD@{11}: checkout: moving from test to master
+e44a3be HEAD@{12}: commit: cherry-pick
+e0ae80d HEAD@{13}: checkout: moving from master to test
+7f0bfa8 HEAD@{14}: rebase (finish): returning to refs/heads/master
+7f0bfa8 HEAD@{15}: rebase (squash): git8.2.3
+fea5120 HEAD@{16}: rebase (start): checkout HEAD~2
+f0b721f HEAD@{17}: rebase (finish): returning to refs/heads/master
+f0b721f HEAD@{18}: rebase (start): checkout HEAD~2
+f0b721f HEAD@{19}: rebase (finish): returning to refs/heads/master
+f0b721f HEAD@{20}: rebase (start): checkout HEAD~2
+f0b721f HEAD@{21}: commit: git8.2.4
+fea5120 HEAD@{22}: commit: git8.2.3
+e0ae80d HEAD@{23}: merge test: Fast-forward
+ae8737f HEAD@{24}: checkout: moving from test to master
+e0ae80d HEAD@{25}: commit: git8.2.2
+d5a190e HEAD@{26}: commit: git8.2
+ae8737f HEAD@{27}: checkout: moving from test to test
+ae8737f HEAD@{28}: checkout: moving from master to test
+ae8737f HEAD@{29}: checkout: moving from test to master
+758c26e HEAD@{30}: checkout: moving from master to test
+ae8737f HEAD@{31}: reset: moving to HEAD
+ae8737f HEAD@{32}: checkout: moving from test to master
+758c26e HEAD@{33}: commit: git8.2.2
+9e51bd0 HEAD@{34}: commit: poprawka git8.2
+a4d7e74 HEAD@{35}: checkout: moving from master to test
+ae8737f HEAD@{36}: commit: poprawka git8.1
+998aff6 HEAD@{37}: reset: moving to HEAD
+998aff6 HEAD@{38}: merge my-fix-branch: Fast-forward
+72fb724 HEAD@{39}: checkout: moving from my-fix-branch to master
+998aff6 HEAD@{40}: revert: Revert "Część pierwsza GIT8"
+5360889 HEAD@{41}: revert: Revert "git 8 log"
+e87323e HEAD@{42}: revert: Revert "git 8 diff"
+3c1fde0 HEAD@{43}: revert: Revert "stash"
+370af68 HEAD@{44}: revert: Revert "git 8 stan"
+6e5cf8f HEAD@{45}: revert: Revert "git 8 cherry"
+d9cef18 HEAD@{46}: revert: Revert "cherry done"
+72fb724 HEAD@{47}: checkout: moving from master to my-fix-branch
+72fb724 HEAD@{48}: pull: Fast-forward
+9cadf8d HEAD@{49}: checkout: moving from master to master
+9cadf8d HEAD@{50}: reset: moving to 9cadf8deb3ad4400f26e6dbddd50b3a5c37595e8
+4cd66aa HEAD@{51}: reset: moving to 4cd66aad083a38d07d6346811d0026486d72c02f
+8f0b68f HEAD@{52}: reset: moving to 8f0b68ff8c393d757f77c3260e429ad8e4c4d391
+e7e40c2 HEAD@{53}: reset: moving to e7e40c203ef5de007c2db7273ef934b182636ecc
+e7e40c2 HEAD@{54}: checkout: moving from skasowany-commit to master
+be23ea9 HEAD@{55}: commit: gałąź skasowany commit
+1c01e62 HEAD@{56}: checkout: moving from 1c01e62281fc497fba2b198fc5da03e66e1606f4 to skasowany-commit
+1c01e62 HEAD@{57}: checkout: moving from master to 1c01e62
+e7e40c2 HEAD@{58}: commit: reset_9
+72fb724 HEAD@{59}: reset: moving to HEAD~1
+1c01e62 HEAD@{60}: commit: GIT_9
+72fb724 HEAD@{61}: commit: cherry done
+a66dcc6 HEAD@{62}: cherry-pick: git 8 cherry
+aae2259 HEAD@{63}: checkout: moving from test to master
+a4d7e74 HEAD@{64}: commit: git 8 cherry
+8f0b68f HEAD@{65}: checkout: moving from master to test
+aae2259 HEAD@{66}: rebase (finish): returning to refs/heads/master
+aae2259 HEAD@{67}: rebase (start): checkout HEAD~2
+aae2259 HEAD@{68}: commit: git 8 stan
+edb0f66 HEAD@{69}: commit: stash
+8f0b68f HEAD@{70}: merge test: Fast-forward
+4cd66aa HEAD@{71}: checkout: moving from test to master
+8f0b68f HEAD@{72}: commit: git 8 diff
+345ea98 HEAD@{73}: commit: git 8 log
+4cd66aa HEAD@{74}: checkout: moving from master to test
+4cd66aa HEAD@{75}: commit: Część pierwsza GIT8
+9cadf8d HEAD@{76}: reset: moving to HEAD
+9cadf8d HEAD@{77}: clone: from https://github.com/Endassassino/my_first_repo_GIT_3.git
