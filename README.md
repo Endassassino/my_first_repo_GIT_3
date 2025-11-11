@@ -5,4 +5,4 @@ my_first_repo_GIT_3
 Tym wpisem chcemy spowodować konflikt
 * 11.11.2025
 - 20:29
-  [git init](
+  [git init](https://github.com/Endassassino/my_first_repo_GIT_3.git)
