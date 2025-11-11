@@ -1,0 +1,135 @@
+a66dcc6 git 8 cherry
+aae2259 git 8 stan
+edb0f66 stash
+8f0b68f git 8 diff
+345ea98 git 8 log
+4cd66aa Część pierwsza GIT8
+9cadf8d Merge branch 'test'
+132a327 koniec GIT_7
+18821bd rozwiązano GIT_7
+353c6fd GIT_7_rozwiązanie_konliktu
+bba3443 GIT_7 konflik2
+6cca813 GIT_7 konflik
+5cd8844 GIT_7
+215f709 zadanie GIT5
+bc9567b zadanka wykonane
+1033542 Merge https://github.com/Endassassino/my_first_repo_GIT_3
+8619561 całość
+e6ed01f Add files via upload
+d2a1f3e Create Hello-World
+* commit a66dcc669f209c481f8be9b787f66d5ebdf35a96
+| Author: Maciej Woźnicki <woznickimaciek@gmail.com>
+| Date:   Tue Nov 11 16:49:03 2025 +0100
+| 
+|     git 8 cherry
+| 
+* commit aae22592ffa7787900d0241ad3708889d4d1eabf
+| Author: Maciej Woźnicki <woznickimaciek@gmail.com>
+| Date:   Tue Nov 11 16:42:39 2025 +0100
+| 
+|     git 8 stan
+| 
+* commit edb0f666e447144a2fec0d1be8e32f5324101ef8
+| Author: Maciej Woźnicki <woznickimaciek@gmail.com>
+| Date:   Tue Nov 11 16:40:52 2025 +0100
+| 
+|     stash
+| 
+* commit 8f0b68ff8c393d757f77c3260e429ad8e4c4d391
+| Author: Maciej Woźnicki <woznickimaciek@gmail.com>
+| Date:   Tue Nov 11 16:34:57 2025 +0100
+| 
+|     git 8 diff
+| 
+* commit 345ea989d696b4e4e0031080af4eb83366d58a64
+| Author: Maciej Woźnicki <woznickimaciek@gmail.com>
+| Date:   Tue Nov 11 16:32:46 2025 +0100
+| 
+|     git 8 log
+| 
+* commit 4cd66aad083a38d07d6346811d0026486d72c02f
+| Author: Maciej Woźnicki <woznickimaciek@gmail.com>
+| Date:   Tue Nov 11 16:26:08 2025 +0100
+| 
+|     Część pierwsza GIT8
+|   
+*   commit 9cadf8deb3ad4400f26e6dbddd50b3a5c37595e8
+|\  Merge: 353c6fd 132a327
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 20:44:42 2025 +0100
+| | 
+| |     Merge branch 'test'
+| | 
+| * commit 132a32796952357519d86cf994e5b5027c75e015
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 20:43:46 2025 +0100
+| | 
+| |     koniec GIT_7
+| | 
+| * commit 18821bdeb4b1c2cc02bf6b47c100487dbb6425f1
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 20:42:22 2025 +0100
+| | 
+| |     rozwiązano GIT_7
+| | 
+* | commit 353c6fd61b565bf4c6b92c7c80358bfb0e7a99a1
+|\| Merge: 6cca813 bba3443
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 20:27:26 2025 +0100
+| | 
+| |     GIT_7_rozwiązanie_konliktu
+| | 
+| * commit bba3443a3798fe53a689bacd7c0ca09b5e420490
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 20:20:22 2025 +0100
+| | 
+| |     GIT_7 konflik2
+| | 
+| * commit 5cd88447a2e17e9dc21fd5013ce3f9163aa294d5
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 20:15:48 2025 +0100
+| | 
+| |     GIT_7
+| | 
+* | commit 6cca8134e3ba9ad97bdb53f39acfbc0b13b00711
+|/  Author: Endassassino <woznickimaciek@gmail.com>
+|   Date:   Sat Nov 8 20:18:55 2025 +0100
+|   
+|       GIT_7 konflik
+| 
+* commit 215f70962615c23ca4df782faacec2a2abb28744
+| Author: Endassassino <woznickimaciek@gmail.com>
+| Date:   Sat Nov 8 19:21:28 2025 +0100
+| 
+|     zadanie GIT5
+| 
+* commit bc9567bf182a7c3a5e3bcbc8ff8bec6b33297250
+| Author: Endassassino <woznickimaciek@gmail.com>
+| Date:   Sat Nov 8 17:37:51 2025 +0100
+| 
+|     zadanka wykonane
+|   
+*   commit 1033542c7e324713f5bef07ba49b0f5105e941b1
+|\  Merge: 8619561 e6ed01f
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 17:30:10 2025 +0100
+| | 
+| |     Merge https://github.com/Endassassino/my_first_repo_GIT_3
+| | 
+| * commit e6ed01fc70039884f343f15cc25ee91ac5d46f2a
+| | Author: Endassassino <woznickimaciek@gmail.com>
+| | Date:   Sat Nov 8 15:17:53 2025 +0100
+| | 
+| |     Add files via upload
+| | 
+* | commit 86195617bf97e7c27076c24acb2a996880ab9948
+|/  Author: Endassassino <woznickimaciek@gmail.com>
+|   Date:   Sat Nov 8 17:27:03 2025 +0100
+|   
+|       całość
+| 
+* commit d2a1f3ee18759125367914d9087e3f98f6ad8128
+  Author: Endassassino <woznickimaciek@gmail.com>
+  Date:   Sat Nov 8 14:01:23 2025 +0100
+  
+      Create Hello-World
